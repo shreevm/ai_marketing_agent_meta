@@ -8,4 +8,4 @@ for doc in docs:
     print("—", doc.page_content)
 
 retriever = build_vector_store(docs)
-print("✅ Pinecone vector index ready")
+print("Pinecone vector index ready")
