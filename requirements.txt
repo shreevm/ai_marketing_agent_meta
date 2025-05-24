@@ -1,0 +1,9 @@
+facebook-business
+openai
+langchain
+langgraph
+pinecone
+streamlit
+pandas
+python-dotenv
+facebook-business
