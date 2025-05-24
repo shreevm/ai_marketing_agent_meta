@@ -25,6 +25,7 @@ conversational insights. It uses a LangGraph-based workflow and Anthropic Claude
 - **Amazon Bedrock (Claude v2)**
 - **Python (TypedDict, dotenv)**
 - **Custom Retriever for Meta Ads data**
+- **Pinecone(Vector embedding)- store the live datas 
 
 ##  Example Use Cases
 
